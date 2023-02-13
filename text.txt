@@ -1,0 +1,2 @@
+comando utilizados 
+01 npm install --save styled-components = para instalar CSS in JS
