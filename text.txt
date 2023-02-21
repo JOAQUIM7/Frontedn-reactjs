@@ -1,2 +1,3 @@
 comando utilizados 
 01 npm install --save styled-components = para instalar CSS in JS
+02 npm install react-icons --save = para instalar biblioteca de icones
